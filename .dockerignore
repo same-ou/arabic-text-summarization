@@ -1,5 +1,6 @@
 venv/
 .vscode/
+screenshots/
 .python-version
 .gitignore
 .git
