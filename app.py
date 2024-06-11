@@ -13,7 +13,7 @@ uploaded_file = st.file_uploader("Or upload a PDF file", type=['pdf'])
 
 model_choice = st.sidebar.selectbox(
     "Choose a summarization model",
-    ("Osame1/AraBART-finetuned-xlsum-ar", "Osame1/AraT5-msa-small-finetuned-xlsum-ar", "facebook/bart-large-cnn")
+    ("Osame1/AraBART-finetuned-xlsum-ar", "Osame1/AraT5-msa-small-finetuned-xlsum-ar")
 )
 
 # Minimum and maximum length sliders
