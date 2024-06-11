@@ -40,6 +40,6 @@ Email: [elhadramidev@gmail.com](mailto:elhadramidev@gmail.com)       |       Lin
 
 Happy coding! 🚀✨
 
-[slides](https://docs.google.com/presentation/d/18zmaqAn3_0ygYXY1gytLW0PxJB4MG7dxebzekoC6QHM/edit#slide=id.p)
+[slides](https://docs.google.com/presentation/d/18zmaqAn3_0ygYXY1gytLW0PxJB4MG7dxebzekoC6QHM/edit#slide=id.p)     | [app](https://arabicsumm.streamlit.app/)
 
 
